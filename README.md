@@ -1,6 +1,5 @@
 # Shift
- Google Developer Clubs Solution Challenge soluton- 2022
- 
+ Google developer student clubs solutions challenge 2022- Submission
  Problem Statement:
  The Problem Statement of the project is to make an application in android platform to purchase
 items in an existing shop. In order to build such an application complete web support
@@ -11,8 +10,8 @@ the online shopping experience is the basic purpose of the project.
  Our android application is a shopping app built on basis of selling personal products and also provide platform for online selling for local sellers. It is combination of business to business (B2B) system and business to customer(B2C) system. This project is an attempt to provide the advantages of online shopping to customers of a real shop. It helps buying the products in the shop anywhere through internet by using any android device. Thus the customer will get the service of online shopping and home delivery from his favorite shop. This system can be implemented to any shop in the locality or to multinational branded shops having retail outlet chains.
  
  Technology Stack Used :
-Android Studio 
-Java 
+Android Studio, 
+Java, 
 Firebase
 
 Project Objectives:
@@ -76,9 +75,9 @@ services.
 
 
 Contributers in this Application:
-Soni Pratham
-@HARSHALJETHWA19
-Abhishek 
+Soni Pratham,
+@HARSHALJETHWA19,
+Abhishek, 
 Angi
 
 
